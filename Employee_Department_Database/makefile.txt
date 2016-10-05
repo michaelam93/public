@@ -1,0 +1,9 @@
+homework2 : Department.o Employee.o homework2.o
+	g++ -o homework2 Department.o Employee.o homework2.o
+
+Department.o : Department.cpp Department.h
+	g++ -c Department.cpp
+Employee.o : Employee.cpp Employee.h
+	g++ -c Employee.cpp
+homework2.o : homework2.cpp homework2.h
+	g++ -c homework2.cpp
