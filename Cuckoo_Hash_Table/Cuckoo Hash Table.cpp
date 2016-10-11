@@ -1,6 +1,7 @@
 /*
   Author: Miguel A Martinez
-
+  Note: A list of integers "raw_int.txt" must also be located in the same directory as this files executable for it to work
+ 
   References:
   [1] The Art of Computer Programming, Volume 3 (2nd edition), Section 6.4, Page 516.
   [2] http://stackoverflow.com/questions/11871245/knuth-multiplicative-hash
