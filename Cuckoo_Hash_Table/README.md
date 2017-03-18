@@ -7,6 +7,6 @@ The console will display the action taken for each number in the list of integer
 Instructions:
 Assure "Cuckoo Hash Table.cpp", "primes.h" and "raw_int.txt" are in the same folder.
 From the terminal run: 
-> g++ Cuckoo\ Hash\ Table.cpp -std=c++11
-> a.out
+g++ Cuckoo\ Hash\ Table.cpp -std=c++11
+a.out
 The terminal should display the hash tables and the elements in them.
